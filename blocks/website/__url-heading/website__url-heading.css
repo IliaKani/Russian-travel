@@ -1,0 +1,16 @@
+.website__url-heading {
+font-family: 'Inter', ‘Arial’, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 12px;
+line-height: 20px;
+color:#AAAAAA;
+letter-spacing: 0.2em;
+}
+
+
+@media only screen and (max-width: 780px) {
+    .website__url-heading {
+    line-height: 12px;
+    }
+}

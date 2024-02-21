@@ -1,0 +1,24 @@
+.header__lang-link {
+    color: #FFFFFF;
+    text-decoration: none;
+    font-family: 'Inter', ‘Arial’, sans-serif;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 24px;
+    line-height: 28px;
+    margin-right: 16px;
+}
+
+.header__lang-link:hover {
+    opacity: 0.8;
+}
+
+@media only screen and (max-width: 360px) {
+    .header__lang-link {
+    line-height: 24px;
+    font-size: 18px;
+    }
+}
+.header__lang-link.active {
+    text-decoration: underline;
+}

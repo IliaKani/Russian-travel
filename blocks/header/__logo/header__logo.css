@@ -1,0 +1,14 @@
+.header__logo {
+    background-image: url(../../../images/header-logo.svg);
+    max-width: 176px;
+    width: 100%;
+    background-size: cover;
+    min-height: 52px;
+}
+
+@media only screen and (max-width: 360px) {
+    .header__logo {
+    min-height: 42px;
+    max-width: 142px;
+    }
+}
