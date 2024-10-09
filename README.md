@@ -1,4 +1,4 @@
-#  _Project Description:_ Russian travel. A project that allowed me to strengthen my skills in working with adaptive layout.
+#  Russian travel. A project that allowed me to strengthen my skills in working with adaptive layout.
 
 
 _Stack:_
