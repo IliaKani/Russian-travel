@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Russian Travel
+=======
+#  Russian travel. A project that allowed me to strengthen my skills in working with adaptive layout.
+>>>>>>> 6b3cbacabcb59cef5d5ae03d77f0529d1e0bbd6d
 
 🌍 **Russian Travel** — a project that allowed me to strengthen my skills in working with adaptive layout.
 
