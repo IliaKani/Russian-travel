@@ -21,10 +21,10 @@ jobs:
     - name: Install dependencies
       run: |
         gem install bundler -v 2.4.22
-        bundle install
+        bundle install --gemfile=./docs/Gemfile
 
     - name: Build site
-      run: bundle exec jekyll build --source ./docs --destination ./docs/_site
+      run: bundle exec jekyll build --source ./docs --destination ./docs/_site --gemfile=./docs/Gemfile
 
     - name: Deploy to GitHub Pages
       uses: peaceiris/actions-gh-pages@v3
