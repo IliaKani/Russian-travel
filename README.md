@@ -7,7 +7,6 @@
 - **Figma**
 - **CSS**
 - **HTML**
-- **Grid**
 
 ## Functionalities:
 - The service is available at: [Russian Travel](https://iliakani.github.io/Russian-travel/)
