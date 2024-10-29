@@ -1,0 +1,15 @@
+@import url(./__link/website__link.css);
+@import url(./__url-heading/website__url-heading.css);
+
+.website {
+    display: grid;
+    grid-row: 1;
+    grid-column: 2;
+    align-self: end;
+}
+
+@media only screen and (max-width: 640px) {
+    .website {
+      display: none;
+    }
+  }

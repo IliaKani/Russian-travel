@@ -1,0 +1,22 @@
+.footer__navigation-link {
+margin-right: 13px;
+font-family: 'Inter', ‘Arial’, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 16px;
+line-height: 18px;
+color: #FFFFFF;
+text-decoration: none;
+}
+
+.footer__navigation-link:hover {
+opacity: 0.8;
+}
+
+@media only screen and (max-width: 680px) {
+    .footer__navigation-link {
+        margin-bottom: 32px;
+        font-size: 24px;
+        line-height: 24px;
+    }
+}

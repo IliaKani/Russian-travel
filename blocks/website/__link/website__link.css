@@ -1,0 +1,13 @@
+.website__link {
+text-decoration-line: underline;
+font-family: 'Inter', ‘Arial’, sans-serif;
+font-style: normal;
+font-weight: normal;
+font-size: 18px;
+line-height: 22px;
+color: #FFFFFF;
+}
+
+.website__link:hover {
+opacity: 0.8;
+  }

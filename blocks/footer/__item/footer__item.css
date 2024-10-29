@@ -1,0 +1,5 @@
+@media only screen and (max-width: 680px) {
+    .footer__item {
+        margin-bottom: 32px;
+    }
+}
